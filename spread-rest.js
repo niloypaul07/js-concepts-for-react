@@ -32,4 +32,3 @@ function restOperator(a,b,c,...rest){
     };
     console.log(allObj);
     //spread operator notun array and array like object creat korte pari
-    
